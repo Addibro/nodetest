@@ -1,0 +1,27 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "node intro",
+  "main": "webbrowser.js",
+  "dependencies": {
+    "express": "^4.15.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodeunit grader/tests/gradesTests.js",
+    "start": "node webbrowser.js"
+  },
+  "author": "Andreas Alme",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Addibro/nodetest.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "bugs": {
+    "url": "https://github.com/Addibro/nodetest/issues"
+  },
+  "homepage": "https://github.com/Addibro/nodetest#readme"
+}
