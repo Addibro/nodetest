@@ -1,5 +1,3 @@
-
-
 // Object
 var die = {
   size: 4,
