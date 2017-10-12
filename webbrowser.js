@@ -1,6 +1,6 @@
-var book = require('./grader/lib/grades').book;
-const express = require('express');
-var app = express();
+var book = require('./grader/lib/grades').book; // get the exports object "book" from grades.js and store it in book variable
+const express = require('express');             // get the express module
+var app = express();                            // express is exporting a function which we name "app"
 
 // when someone tries to 'get' the root of the website
 // I want the app to respond in a certain way
@@ -23,13 +23,17 @@ app.get("/grade", function(req, res){
   // we ask req for the query string and then split it:
   // "1, 2, 3".split(",") => ["1", "2", "3"]
   var grades = req.query.grades.split(",");
+
+  // loop through the input array
   for (var i = 0; i < grades.length; i++) {
     book.addGrade(parseInt(grades[i]));
   }
+
+  // get average letter and number
   var averageLetter = book.getAverageGradeLetter();
   var average = book.getAverage();
 
-  // and now we respond with the average ponits and average grade letter to the browser
+  // and now we respond with the average points and average grade letter to the browser
   res.send("Your average is: " + average + " Average grade letter: " + averageLetter);
 });
 
@@ -42,6 +46,7 @@ app.listen(3000);
 console.log("Server is ready...");
 
 // after this go into a webbrowser and type in "localhost:3000" (alias for this computer)
-// and we will het "Cannot GEt /", which means:
+// and if we don't declare a function called "get"
+// we will get "Cannot GET /", which means:
 // "Sorry, you've requested the root of this website (the root path), and I don't know
-// how to respond", because we havn't told express what to do.
+// how to respond", because we haven't told express what to do.

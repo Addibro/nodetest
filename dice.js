@@ -14,5 +14,5 @@ var die = {
 
 // what I want to make
 // avaiable to other programs
-exports.die = die;
+exports.dieExport = die; // adding the die object to a property in exports called "dieExport"
 exports.name = "My name exports";

@@ -19,6 +19,16 @@ var gradeBook = {
     return this.getSum() / this._grades.length;
   },
 
+  getHighestGrade: function () {
+    var max = this._grades[0];
+    for (var i = 1; i < this._grades.length; i++) {
+        if (this._grades[i] > max) {
+            max = this._grades[i];
+        }
+    }
+    return max;
+  },
+
   getSum: function() {
     var sum = 0;
     for (var i = 0; i < this._grades.length; i++) {
@@ -34,6 +44,7 @@ var gradeBook = {
   getGrades: function(){
     return this._grades;
   },
+
   getGradeLetter: function(){
     var grades = this._grades;
     for (var i = 0; i < grades.length; i++) {
@@ -51,6 +62,7 @@ var gradeBook = {
     }
     return this._gradeLetters;
   },
+
   getAverageGradeLetter: function() {
     var average = this.getAverage();
     if(average >= 90) {
