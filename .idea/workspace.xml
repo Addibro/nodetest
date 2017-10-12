@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cbb132e-fd72-4744-a981-bc274008b7a4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Grader/lib/grades.js" afterPath="$PROJECT_DIR$/Grader/lib/grades.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Grader/tests/gradesTests.js" afterPath="$PROJECT_DIR$/Grader/tests/gradesTests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dice.js" afterPath="$PROJECT_DIR$/dice.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Intro" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="gradesTests.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Grader/tests/gradesTests.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Grader/lib/grades.js" />
+        <option value="$PROJECT_DIR$/dice.js" />
+        <option value="$PROJECT_DIR$/Grader/tests/gradesTests.js" />
+        <option value="$PROJECT_DIR$/main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="840" />
+    <option name="y" value="23" />
+    <option name="width" value="840" />
+    <option name="height" value="512" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intro" type="462c0819:PsiDirectoryNode" />
+              <item name="Grader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intro" type="462c0819:PsiDirectoryNode" />
+              <item name="Grader" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intro" type="462c0819:PsiDirectoryNode" />
+              <item name="Grader" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PsiViewer.ProjectComponent">
+    <option name="HIGHLIGHT" value="false" />
+    <option name="FILTER_WHITESPACE" value="false" />
+    <option name="SHOW_PROPERTIES" value="true" />
+    <option name="SPLIT_DIVIDER_POSITION" value="300" />
+    <option name="AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cbb132e-fd72-4744-a981-bc274008b7a4" name="Default" comment="" />
+      <created>1507821422657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507821422657</updated>
+      <workItem from="1507821424335" duration="1568000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1568000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="840" y="23" width="840" height="512" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32853717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="PsiViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32853717" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297619" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/webbrowser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506374677000" expanded="true" signature="106:206" ph="//..." />
+            <marker date="1506374677000" expanded="true" signature="246:613" ph="{...}" />
+            <marker date="1506374677000" expanded="true" signature="250:545" ph="//..." />
+            <marker date="1506374677000" expanded="true" signature="617:895" ph="//..." />
+            <marker date="1506374677000" expanded="true" signature="932:1431" ph="{...}" />
+            <marker date="1506374677000" expanded="true" signature="936:1034" ph="//..." />
+            <marker date="1506374677000" expanded="true" signature="1121:1166" ph="{...}" />
+            <marker date="1506374677000" expanded="true" signature="1436:1665" ph="//..." />
+            <marker date="1506374677000" expanded="true" signature="1720:2007" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/express/lib/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506316629000" expanded="true" signature="0:164" ph="/*...*/" />
+            <marker date="1506316629000" expanded="true" signature="181:224" ph="/** Module dependencies. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="947:980" ph="/** Application prototype. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="1024:1095" ph="/** Variable for trust proxy inheritance back-compat ...*/" />
+            <marker date="1506316629000" expanded="true" signature="1160:1316" ph="/** Initialize the server. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="1345:1442" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="1445:1505" ph="/** Initialize application configuration. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="1566:3141" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="1936:1981" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="2066:2540" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="2217:2313" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="2888:2924" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="2966:3137" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="2988:3133" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="3144:3363" ph="/** lazily adds the base router if it has not yet been added. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="3403:3683" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="3426:3681" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="3458:3571" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="3686:3917" ph="/** Dispatch a req, res pair into the application. Starts pipeline processing. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="3968:4269" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="4067:4131" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="4165:4233" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="4272:4501" ph="/** Proxy `Router##use()` to add middleware to the app router. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="4530:5688" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="4571:4625" ph="//..." />
+            <marker date="1506316629000" expanded="true" signature="4658:4869" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="4730:4757" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="4823:4865" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="4948:5021" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="5120:5662" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="5183:5225" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="5415:5605" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="5484:5597" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="5691:5902" ph="/** Proxy to the app `Router##route()` ...*/" />
+            <marker date="1506316629000" expanded="true" signature="5937:5996" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="5999:7237" ph="/** Register the given template engine callback `fn` ...*/" />
+            <marker date="1506316629000" expanded="true" signature="7277:7521" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="7311:7367" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="7524:7788" ph="/** Proxy to `Router##param()` with one added api feature. The _name_ parameter ...*/" />
+            <marker date="1506316629000" expanded="true" signature="7827:8033" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="7878:7982" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="7922:7960" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="8036:8330" ph="/** Assign `setting` to `val`, or return `setting`'s value. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="8369:9064" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="8401:8465" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="8606:9046" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="8624:8682" ph="..." />
+            <marker date="1506316629000" expanded="true" signature="8707:8780" ph="..." />
+            <marker date="1506316629000" expanded="true" signature="8804:9042" ph="..." />
+            <marker date="1506316629000" expanded="true" signature="8968:9026" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="9067:9351" ph="/** Return the app's absolute pathname ...*/" />
+            <marker date="1506316629000" expanded="true" signature="9380:9456" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="9459:9686" ph="/** Check if `setting` is enabled (truthy). ...*/" />
+            <marker date="1506316629000" expanded="true" signature="9728:9768" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="9771:9992" ph="/** Check if `setting` is disabled. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="10036:10068" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="10071:10170" ph="/** Enable `setting`. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="10210:10247" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="10250:10350" ph="/** Disable `setting`. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="10392:10430" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="10433:10494" ph="/** Delegate `.VERB(...)` calls to `router.VERB(...)`. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="10528:10825" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="10560:10822" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="10614:10676" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="10829:11045" ph="/** Special-cased &quot;all&quot; method, applying the given route `path`, ...*/" />
+            <marker date="1506316629000" expanded="true" signature="11076:11288" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="11223:11270" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="11393:11743" ph="/** Render the given view `name` name with `options` ...*/" />
+            <marker date="1506316629000" expanded="true" signature="11799:13207" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="12023:12063" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="12172:12217" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="12347:12406" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="12453:12482" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="12507:13152" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="12569:12676" ph="{&quot;engines&quot;: engines...}" />
+            <marker date="1506316629000" expanded="true" signature="12700:13061" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="13115:13148" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="13210:13748" ph="/** Listen for connections. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="13781:13873" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="13876:13954" ph="/** Log error using console.error. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="13979:14089" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="13983:14009" ph="/*...*/" />
+            <marker date="1506316629000" expanded="true" signature="14091:14135" ph="/** Try rendering a view. ...*/" />
+            <marker date="1506316629000" expanded="true" signature="14181:14269" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="14189:14230" ph="{...}" />
+            <marker date="1506316629000" expanded="true" signature="14243:14267" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1506440409000" expanded="true" signature="0:602" ph="{&quot;name&quot;: &quot;hello-on-web&quot;...}" />
+            <marker date="1506440409000" expanded="true" signature="126:156" ph="{&quot;express&quot;: &quot;^4.15.5&quot;...}" />
+            <marker date="1506440409000" expanded="true" signature="196:287" ph="{&quot;test&quot;: &quot;nodeunit grader/tests/gradesTests.js&quot;...}" />
+            <marker date="1506440409000" expanded="true" signature="353:434" ph="{&quot;type&quot;: &quot;git&quot;...}" />
+            <marker date="1506440409000" expanded="true" signature="450:467" ph="[...]" />
+            <marker date="1506440409000" expanded="true" signature="479:540" ph="{&quot;url&quot;: &quot;https://github.com/Addibro/nodetest/issues&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <folding>
+            <marker date="1507822911000" expanded="true" signature="20:186" ph="{...}" />
+            <marker date="1507822911000" expanded="true" signature="65:119" ph="{...}" />
+            <marker date="1507822911000" expanded="true" signature="154:184" ph="{...}" />
+            <marker date="1507822911000" expanded="true" signature="189:241" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helloWorldServer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <folding>
+            <marker date="1505952809000" expanded="true" signature="127:134" ph="{...}" />
+            <marker date="1505952809000" expanded="true" signature="127:229" ph="{...}" />
+            <marker date="1505952809000" expanded="true" signature="269:280" ph="{...}" />
+            <marker date="1505952809000" expanded="true" signature="269:336" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="40" lean-forward="true" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding>
+            <marker date="1507823042000" expanded="true" signature="169:270" ph="//..." />
+            <marker date="1507823042000" expanded="true" signature="291:388" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grader/lib/grades.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding>
+            <marker date="1507822318000" expanded="true" signature="16:1528" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="49:177" ph="//..." />
+            <marker date="1507822318000" expanded="true" signature="258:296" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="330:367" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="395:448" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="472:598" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="541:578" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="621:649" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="675:705" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="735:1212" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="812:1177" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="840:889" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="916:965" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="992:1041" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="1068:1116" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="1122:1171" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="1250:1526" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="1311:1337" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="1362:1388" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="1413:1439" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="1464:1490" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="1496:1522" ph="{...}" />
+            <marker date="1507822318000" expanded="true" signature="1531:1615" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grader/tests/gradesTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

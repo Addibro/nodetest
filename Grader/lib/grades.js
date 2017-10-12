@@ -1,9 +1,9 @@
 var gradeBook = {
 
-  // variables
-  _grades: [], // _ in the beginning is a convention
-  // that this variable only should be used by the object (gradeBook)
-  _gradeLetters: [],
+  // Variables
+  _grades: [], // (array) _ in the beginning is a convention
+               // that this variable only should be used by the object (gradeBook)
+  _gradeLetters: [], // (array)
 
 
   // Functions
@@ -67,4 +67,6 @@ var gradeBook = {
   }
 };
 
+// we want to export the whole gradeBook object
+// so that other programs can use it
 exports.book = gradeBook;

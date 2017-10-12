@@ -6,6 +6,7 @@ var die = {
   roll: function() {
     return Math.ceil(this.size * Math.random());
   },
+
   setDieSize: function(dieSize) {
     this.size = dieSize;
   }

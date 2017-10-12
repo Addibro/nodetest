@@ -1,4 +1,4 @@
-// will point to the export object in dice.js
+// will point to the export object in dice.js, to lookup what is exported from dice.js
 var dice = require("./dice");
 var gradeBook = require('./grader/lib/grades').book;// book is the name of the exports object in gradeBook
 // get the die object från exports från "dice"

@@ -1,4 +1,5 @@
 const book = require('../lib/grades').book;
+
 exports["setUp"] = function(callback) {
   book.reset();
   callback();
